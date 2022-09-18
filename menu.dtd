@@ -1,0 +1,8 @@
+<!DOCTYPE menu
+[
+<!ELEMENT menu (name,price,description)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT price (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+>
+]>
